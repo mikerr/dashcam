@@ -1,0 +1,4 @@
+# setup from raspbian lite
+sudo apt-get install git samba python3-picamera
+# enable camera
+sudo raspi-config
